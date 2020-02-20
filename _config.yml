@@ -17,23 +17,109 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
+remote_theme: mmistakes/so-simple-theme
+skin: "/assets/css/skins/light.css"
+locale: en-US
+title: Prashant Ganesh
+email: prashant.ganesh92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Research Faculty at University of Florida
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://pragane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+date_format: "%B %-d, %Y"
+read_time: true
+words_per_minute: 200
+mathjax: true
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+disqus:
+  shortname: # Disqus shortname, e.g. "my_disqus_shortname
+twitter_username: prasgane
+github_username:  prasgane
+# Liquid
+liquid:
+  error_mode: strict
 
 # Build settings
-remote_theme: mmistakes/so-simple-theme
+markdown: kramdown
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Search
+search_full_content: false
+
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
+# Build settings
+
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
+
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true
+
+# Site Author
+author:
+  name: Prashant Ganesh
+  picture: /images/Prashant_Ganesh_photo.jpg
+  email: prashant.ganesh92@gmail.com
+  twitter: mmistakes
+  links:
+    - title: Twitter
+      url: https://twitter.com/prasgane
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/prasgane
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/prashantganesh92/
+      icon: fab fa-linkedin-square
+
+footer_links:
+  - title: Twitter
+      url: https://twitter.com/prasgane
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/prasgane
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/prashantganesh92/
+      icon: fab fa-linkedin-square
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
