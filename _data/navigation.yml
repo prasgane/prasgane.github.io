@@ -2,10 +2,13 @@
 
 - title: Home
   url: /
-- title: Posts
-  url: /posts/
-- title: Categories
-  url: /categories/
+- title: Research
+  url: /research/
+- title: Publications
+  url: /publication/
+- title: about_me
+  url: /about_me/
+
 #- title: Tags
 #  url: /tags/
 # - title: Recipes
