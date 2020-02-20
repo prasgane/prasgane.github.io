@@ -110,7 +110,7 @@ author:
       icon: fab fa-linkedin-square
 
 footer_links:
-  - title: Twitter
+    - title: Twitter
       url: https://twitter.com/prasgane
       icon: fab fa-twitter-square
     - title: GitHub
