@@ -1,0 +1,19 @@
+prashant:
+  name: Prashant Ganesh
+  picture: /images/Prashant_Ganesh_photo.jpg
+  twitter: "prasgane"
+  google:
+    scholar: latQy48AAAAJ
+  links:
+    - title: Twitter
+      url: https://twitter.com/prasgane
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/prasgane
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/prashantganesh92/
+      icon: fab fa-linkedin-in
+    - title: Google
+      url: https://scholar.google.com/citations?user=latQy48AAAAJ
+      icon: fab fa-google
