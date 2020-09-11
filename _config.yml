@@ -23,7 +23,7 @@ locale: en-US
 title: Prashant Ganesh
 email: prashant.ganesh92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Research Faculty at University of Florida
+  Research Engineer at University of Florida
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pragane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Prashant_Ganesh_photo.jpg # path of site logo, e.g. "/images/logo.png"

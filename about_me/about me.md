@@ -8,8 +8,8 @@ image:
   caption: "Flatiron at Boulder, CO"
 author: prashant
 ---
-Hello! I am a research faculty at the Mechanical and Aerospace Engineering department at the University of Florida's Research Engineering Education Facility (UF REEF) in Shalimar Florida.
-
+Hello! I am Prashant and I am a research engineer at the Mechanical and Aerospace Engineering department at the University of Florida's Research Engineering Education Facility (UF REEF) in Shalimar Florida.
+My research focuses on developing estimation and control for autonomous agents in a indoor environment. I have also worked on computer vision and 
 I work at the Autonomous Vehicles lab and function as a research engineer/ lab manager. My research interest are in estimation and control for autonomous agents in an indoor environment. 
 I am also interested in Machine learning (both deep learning and bayesian inference) and agricultural robotics. 
 
