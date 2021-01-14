@@ -1,12 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: post
-title:  "Welcome to my page"
-date:   2020-02-19 20:57:06 -0600
-show-avatar: false
-author: prashant
+layout: page
+title: 
+subtitle: 
+show-avatar: true
+image:
+  feature: 
 ---
 
 I am a Research Faculty in Mechanical and Aerospace Engineering at the University of Florida and I currently help manage the Autonomous Vehicles Lab. I received my Master's in Aerospace Engineering from the University of Colorado at Boulder and my Bachelor's from Anna University, India. I have been in my current role since 2017.

@@ -1,3 +1,9 @@
+<!--
+    So Simple Jekyll Theme 3.0.0
+    Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
 $(document).ready(function() {
   // main menu toggle
   var toggleButton = document.getElementById("menu-toggle");

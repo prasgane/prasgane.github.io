@@ -4,10 +4,12 @@
   url: /
 - title: Research
   url: /research/
-- title: Publications
-  url: /publication/
-- title: About me
-  url: /about_me/
+- title: Curriculum Vitae
+  url: /curriculum_vitae/
+- title: Fun
+  url: /fun/
+- title: Contact
+  url: /contact/
 #- title: Tags
 #  url: /tags/
 # - title: Recipes
