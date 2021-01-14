@@ -3,7 +3,7 @@ layout: page
 title: 
 subtitle: 
 show-avatar: false
-
+permalink: /contact/
 ---
 
 Email: prashant <dot> ganesh <at> ufl <dot> edu
