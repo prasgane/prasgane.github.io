@@ -1,12 +1,9 @@
 ---
-layout: page
-title: 
-subtitle: 
-show-avatar: false
-permalink: /contact/
+title: Contact
 ---
 
 Email: prashant <dot> ganesh <at> ufl <dot> edu
+
 
 Address: 1350 N. Poquito Road, Shalimar Florida, 32579
 

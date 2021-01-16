@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 
-subtitle: 
+title: Fun
 show-avatar: true
-image:
-  feature: 
+permalink: /fun/
 ---
+
+Testing the fun page;
 
