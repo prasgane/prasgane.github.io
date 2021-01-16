@@ -1,9 +1,8 @@
 ---
-layout: pdf
-title: TESTING!!
-show-avatar: false
-author: prashant
+layout: single
+title: "Curriculum Vitae"
+sitemap: false
 permalink: /curriculum_vitae/
 ---
 
-Testing CV page
+<embed src="https://prasgane.github.io/images/ganesh_cv.pdf" type="application/pdf" />
