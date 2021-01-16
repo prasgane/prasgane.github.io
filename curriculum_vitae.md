@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pdf
 title:
 show-avatar: false
 author: prashant
