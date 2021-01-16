@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fun
+title: 
 show-avatar: true
 permalink: /fun/
 ---
