@@ -5,27 +5,24 @@ show-avatar: true
 permalink: /fun/
 ---
 
-I really enjoy cooking, travelling and hiking!
+## Beyond the Desk
 
-Pongal 2021 - [Pongal](https://en.wikipedia.org/wiki/Pongal_(festival)) is a harvest festival celebrated in the Tamil community. 
+When I'm not at work, I like to build, cook, and explore things in the physical world.
+
+### 🪵 Woodworking & Making
+I spend a lot of my weekends building furniture and small projects in my garage shop, focusing on hardwood joinery, floating shelves, and outdoor pieces. My latest project involves building an acoustic guitar at the San Diego Fine Woodworkers Association, where I am an active member and volunteer.
+
+### 🥾 In the Wild
+When I need to get away from screens entirely, I head outdoors with my wife. One of my favorite milestones so far was standing on the summit of **Mt. Elbert, Colorado at 14,439 ft.**
+
+![Hiking Mt. Elbert](/images/hiking.jpg)
+
+### 🍳 Cooking
+
+Pongal 2021 — [Pongal](https://en.wikipedia.org/wiki/Pongal_(festival)) is a harvest festival in the Tamil community.
 
 ![Pongal 2021](/images/pongal.jpg)
 
+Sourdough — weekend ritual.
 
-Sourdough bread - Got into making sourdoughs two years back, enjoy making my own bread during the weekends.
-
-![Bread](/images/bread.jpg)
-
-San Francisco 2020
-
-![SF](/images/sf.jpg)
-
-Photo of the Syndey Opera House when I was there in Dec 2019 for the AgriControl conference. Photo was taken during the forest fires.
-
-![Australia](/images/australia.jpg)
-
-
-Hiking Mt. Elbert 14,439'
-
-![Hiking](/images/hiking.jpg)
-
+![Sourdough](/images/bread.jpg)

@@ -1,11 +1,12 @@
 - title: Home
   url: /
-- title: Research
-  url: /research/
-- title: Curriculum Vitae
-  url: /curriculum_vitae/
-- title: Fun
+- title: Projects
+  url: /projects/
+- title: Background
+  url: /background/
+- title: Resume
+  url: /resume/
+- title: About
   url: /fun/
 - title: Contact
   url: /contact/
-

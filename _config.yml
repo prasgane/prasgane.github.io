@@ -21,11 +21,11 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/light.css"
 locale: en-US
 title: Prashant Ganesh
-email: prashant.ganesh92@gmail.com
+email: prashant.ganesh@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Research Faculty at University of Florida
+  Aerospace Engineer, Roboticist & Builder
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pragane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://prashantganesh.info" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Prashant_Ganesh_photo.jpg # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
@@ -96,9 +96,10 @@ defaults:
 # Site Author
 author:
   name: Prashant Ganesh
+  bio: "Aerospace Engineer, Roboticist & Builder"
   picture: /images/Prashant_Ganesh_photo.jpg
-  email: prashant.ganesh92@gmail.com
-  twitter: mmistakes
+  email: prashant.ganesh@protonmail.com
+  twitter: prasgane
   links:
     - title: Twitter
       url: https://twitter.com/prasgane

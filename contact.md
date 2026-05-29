@@ -1,16 +1,13 @@
 ---
 title: 
-subtitle: 
 show-avatar: false
 permalink: /contact/
 ---
 
-Email: prashant <dot> ganesh <at> ufl <dot> edu
+**Email:** prashant.ganesh [at] protonmail [dot] com
 
+**LinkedIn:** [linkedin.com/in/ganeshprashant/](https://www.linkedin.com/in/ganeshprashant/)
 
-Address: 1350 N. Poquito Road, Shalimar Florida, 32579
+**GitHub:** [github.com/prasgane](https://github.com/prasgane)
 
-
-Phone: (850) 833-9350
-
-
+For accelerator inquiries, partnership opportunities, or technical collaborations, email is best.
