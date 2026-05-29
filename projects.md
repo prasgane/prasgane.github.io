@@ -7,7 +7,7 @@ permalink: /projects/
 
 ## Space Domain Awareness
 
-I have a deep interest in the problem of tracking objects in orbit. The space-tracking network is fragmented, government-controlled, and closed to new entrants, and I find the technical and systems-level challenges here genuinely compelling. As a side project I have been exploring what the sensor and data infrastructure layer for this problem could look like. Early-stage and very much a passion project. Always happy to connect with others curious about the same space.
+I have a deep interest in the problem of tracking objects in orbit. The space-tracking network is fragmented, government-controlled, and closed to new entrants, and I find the technical and systems-level challenges here genuinely compelling. As a side project I have been exploring what the sensor and data infrastructure layer for this problem could look like, with simulation-validated sensor fusion pipelines and tracking algorithms across LEO/MEO/GEO regimes. Early-stage and very much a passion project. Always happy to connect with others curious about the same space.
 
 ---
 
